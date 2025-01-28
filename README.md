@@ -5,5 +5,5 @@ Repositorio que contiene los challenges del curso de Oracle One Next Education
 
 **Primer challenge: Challenge del amigo Secreto** 
   - El programa toma una lista de personas como entrada, de la longitud deseada, y al pulsar el botón: sortear amigo, selecciona aleatoriamente uno de los nombres ingresados
-  - Para acceder a él, puede realizarse desde la siguiente URL:
+  - Para acceder a él, puede realizarse desde la siguiente URL: https://rogarlop.github.io/Oracle_ONE_Challenges/ creada en una rama adicional mediante github pages
   - O puede clonarse y correr el archivo index.html en local
